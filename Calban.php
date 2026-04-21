@@ -17,7 +17,7 @@
     <table class="table">
         <tr class="danger">
             <th>ID</th>
-            <th>Name</th>
+            <th>Nigger</th>
             <th>Remarks</th>
         </tr>
         <tr>
